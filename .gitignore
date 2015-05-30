@@ -31,7 +31,7 @@ rerun.txt
 pickle-email-*.html
 .project
 config/initializers/secret_token.rb
-
+/public/ckeditor_assets
 
 # Ignore all logfiles and tempfiles.
 /log/*
