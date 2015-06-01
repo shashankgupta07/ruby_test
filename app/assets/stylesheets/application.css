@@ -11,8 +11,12 @@
  * file per style scope.
  */
  
- = require_tree .
- = require_self
- = require bootstrap/bootstrap
+ //= require_tree .
+ //= require_self
+ //= require bootstrap/bootstrap
 
- body { padding-top: 50px; }
+body {
+	padding-top: 70px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+}
