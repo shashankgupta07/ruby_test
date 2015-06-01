@@ -14,3 +14,5 @@
  = require_tree .
  = require_self
  = require bootstrap/bootstrap
+
+ body { padding-top: 50px; }

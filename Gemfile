@@ -29,6 +29,8 @@ gem 'paperclip'
 gem 'cancan'
 gem 'devise'
 
+gem 'html_truncator', '~> 0.3.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
